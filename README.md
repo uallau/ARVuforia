@@ -18,6 +18,7 @@ git status
 git push
 ```
 
+###…or create a new repository on the command line
 ```
 echo "# ARtifact_Thesis" >> README.md
 git init
