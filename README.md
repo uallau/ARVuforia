@@ -1,6 +1,6 @@
 # ARVuforia
 
-##Unity to Github
+## Unity to Github
 ```
 git config --global user.name "uallau"
 git config --global user.email "dierhunter90@gmail.com"
@@ -27,6 +27,15 @@ git add README.md
 git commit -m "first commit"
 git branch -M master
 git remote add origin https://github.com/uallau/ARtifact_Thesis.git
+git push -u origin master
+```
+
+
+…or push an existing repository from the command line
+
+```
+git remote add origin https://github.com/uallau/ARtifact_Thesis.git
+git branch -M master
 git push -u origin master
 ```
 
